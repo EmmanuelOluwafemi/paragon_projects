@@ -122,6 +122,11 @@ body {
     color: #E4AF26;
 }
 
+.cover {
+    height: 40vh;
+    background-size: cover;
+}
+
 
 /*------------Footer Section--------------*/
 #footer-section {
@@ -177,4 +182,9 @@ body {
         border-right: 5px solid transparent;
         border-bottom: 5px solid transparent;
     }
+
+    .cover {
+	    height: 60vh;
+	    background-size: cover;
+	}
 }
