@@ -153,6 +153,21 @@ body {
 }
 
 
+/* Pagination */
+.page-link{
+    color: #E4AF26;
+}
+
+.page-link:hover{
+    color: #ccc;
+}
+
+.page-item.active .page-link{
+    background-color: #E4AF26;
+    border: none;
+}
+
+
 /*------------Footer Section--------------*/
 #footer-section {
     background-color: #0F2531;
